@@ -4,7 +4,7 @@
  * @brief Header file for the PWM1_3 driver.
  *
  * This file contains the function definitions for the PWM1_3 driver.
- * It uses the Module 1 PWM Generator 3 to generate a PWM signal with the PB6 pin.
+ * It uses the Module 1 PWM Generator 3 to generate a PWM signal with the PF2 pin.
  *
  * @note This driver assumes that the system clock's frequency is 50 MHz.
  *
