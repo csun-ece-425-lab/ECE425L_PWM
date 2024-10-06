@@ -18,7 +18,7 @@
  * update the duty cycle for the RGB LED (specifically PF2) every 5 ms to demonstrate
  * a fading LED effect.
  *
- * @author Aaron Nanas
+ * @author
  */
 
 
